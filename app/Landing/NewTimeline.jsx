@@ -1,5 +1,5 @@
 import React from "react";
-import "../../styles/landing.css"
+import "../../styles/landing.css";
 
 export default function NewTimeline() {
   return (
@@ -21,7 +21,7 @@ export default function NewTimeline() {
             <div
               className="card_cont pos"
               style={{
-                backgroundImage: `url(29.png)`,
+                backgroundImage: `url("29.png")`,
 
                 backgroundSize: "contain",
               }}
@@ -67,7 +67,7 @@ export default function NewTimeline() {
             <div
               className="card_cont pos"
               style={{
-                backgroundImage: `url(30.png)`,
+                backgroundImage: `url("30.png")`,
 
                 backgroundSize: "contain",
               }}
@@ -113,7 +113,7 @@ export default function NewTimeline() {
             <div
               className="card_cont pos"
               style={{
-                backgroundImage: `url(31.png)`,
+                backgroundImage: `url("31.png")`,
 
                 backgroundSize: "contain",
               }}
@@ -159,7 +159,7 @@ export default function NewTimeline() {
             <div
               className="card_cont pos"
               style={{
-                backgroundImage: `url(1.png)`,
+                backgroundImage: `url("1.png")`,
 
                 backgroundSize: "contain",
               }}
